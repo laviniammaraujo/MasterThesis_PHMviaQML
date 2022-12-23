@@ -9,7 +9,9 @@ PROGNOSTICS AND HEALTH MANAGEMENT VIA QUANTUM MACHINE LEARNING IN THE OIL & GAS 
 Universidade Federal de Pernambuco 
 
 *Advisor:*
-Prof. Dr. Isis Didier Lins.
+Prof. Dr. Isis Didier Lins
+
+#
 
 *Datasets files available at:*
 
@@ -18,7 +20,9 @@ Prof. Dr. Isis Didier Lins.
 
 *Requirements:*
 
-# Name                    Version 
+
+#
+Name                    Version 
 
 cirq                      0.7.0  
 numpy                     1.19.5 
