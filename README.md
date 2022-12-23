@@ -18,11 +18,11 @@ Prof. Dr. Isis Didier Lins
 1. CWRU: https://csegroups.case.edu/bearingdatacenter/pages/download-data-file/
 2. JNU: http://mad-net.org:8765/explore.html?t=0.5831516555847212.
 
+#
+
 *Requirements:*
 
-
-#
-Name                    Version 
+*Name*                    *Version* 
 
 cirq                      0.7.0  
 numpy                     1.19.5 
