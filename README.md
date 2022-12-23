@@ -1,4 +1,4 @@
-# MasterThesis_PHMviaQML
+# Master Thesis Code: PHM via QML
 
 Code details of Lavínia Maria Mendes Araújo master thesis.
 
@@ -12,7 +12,7 @@ Universidade Federal de Pernambuco
 Prof. Dr. Isis Didier Lins
 
 
-## Datasets files available at:*
+## Datasets files available at:
 
 - 1. CWRU: https://csegroups.case.edu/bearingdatacenter/pages/download-data-file/
 - 2. JNU: http://mad-net.org:8765/explore.html?t=0.5831516555847212.
