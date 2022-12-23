@@ -11,29 +11,26 @@ Universidade Federal de Pernambuco
 *Advisor:*
 Prof. Dr. Isis Didier Lins
 
-#
 
-*Datasets files available at:*
+## Datasets files available at:*
 
-1. CWRU: https://csegroups.case.edu/bearingdatacenter/pages/download-data-file/
-2. JNU: http://mad-net.org:8765/explore.html?t=0.5831516555847212.
+- 1. CWRU: https://csegroups.case.edu/bearingdatacenter/pages/download-data-file/
+- 2. JNU: http://mad-net.org:8765/explore.html?t=0.5831516555847212.
 
-#
 
-*Requirements:*
+## *Requirements:*
 
-*Name*                    *Version* 
 
-cirq                      0.7.0  
-numpy                     1.19.5 
-pandas                    1.1.5  
-scikit-learn              0.24.2 
-scipy                     1.4.1 
-seaborn                   0.11.2 
-sympy                     1.4 
-tensorflow-gpu            2.1.0
-tensorflow-gpu-estimator  2.1.0 
-tensorflow-quantum        0.2.0
-tqdm                      4.64.1 
+- cirq                      0.7.0  
+- numpy                     1.19.5 
+- pandas                    1.1.5  
+- scikit-learn              0.24.2 
+- scipy                     1.4.1 
+- seaborn                   0.11.2 
+- sympy                     1.4 
+- tensorflow-gpu            2.1.0
+- tensorflow-gpu-estimator  2.1.0 
+- tensorflow-quantum        0.2.0
+- tqdm                      4.64.1 
 
 
