@@ -11,7 +11,7 @@ Universidade Federal de Pernambuco
 *Advisor:*
 Prof. Dr. Isis Didier Lins
 
-The results of this study were published at:
+The results of this study were published in:
 https://ieeexplore.ieee.org/document/10065474
 
 ## Datasets files available at:
