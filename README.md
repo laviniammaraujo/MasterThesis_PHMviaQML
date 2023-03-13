@@ -18,6 +18,10 @@ Prof. Dr. Isis Didier Lins
 - 2. JNU: http://mad-net.org:8765/explore.html?t=0.5831516555847212.
 
 
+The results of this study were published at:
+https://ieeexplore.ieee.org/document/10065474
+
+
 ## *Requirements:*
 
 
