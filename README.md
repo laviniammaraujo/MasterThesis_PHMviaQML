@@ -4,6 +4,7 @@ Code details of Lavínia Maria Mendes Araújo master thesis.
 
 *Title:*
 PROGNOSTICS AND HEALTH MANAGEMENT VIA QUANTUM MACHINE LEARNING IN THE OIL & GAS INDUSTRY
+
 Available at: https://repositorio.ufpe.br/handle/123456789/49472
 
 *Institution:*
